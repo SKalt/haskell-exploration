@@ -73,4 +73,5 @@ executable hello-world
     hs-source-dirs:   app
 
     -- Base language which the package is written in.
-    default-language: GHC2024
+    default-language: Haskell2010
+    -- TODO: figure out how to get GHC2024

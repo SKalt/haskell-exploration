@@ -1,2 +1,7 @@
 .direnv
 .env
+dist*
+*.hi
+*.o
+!build/README.md
+build
